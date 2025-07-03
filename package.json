@@ -4,6 +4,10 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:deploy": "./deploy.sh",
     "build": "tsc"
   },
   "dependencies": {},

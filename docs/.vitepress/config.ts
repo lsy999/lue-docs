@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'Lue UI',
     description: '一个轻量级的 Vue 3 UI 组件库',
+    base: '/https://github.com/lsy999/lue-docs/tree/main/docs/',
     themeConfig: {
         nav: [
             { text: '指南', link: '/' },
