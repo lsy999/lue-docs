@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as p}from"./chunks/framework.Dgg8-8ov.js";const o=JSON.parse('{"title":"Lue UI","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"};function t(e,s,h,k,r,F){return n(),a("div",null,s[0]||(s[0]=[p("",4)]))}const c=i(l,[["render",t]]);export{o as __pageData,c as default};
